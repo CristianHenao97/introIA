@@ -11,3 +11,5 @@ https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022
 
 ## Enlace al video de la entrega 2: https://youtu.be/AmmL_zZG1pk
 
+## Enlace al video de la entrega : https://www.youtube.com/watch?v=sEefzillsZU
+
